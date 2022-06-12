@@ -6,11 +6,14 @@
 
 <div style="display:flex; align-items:center">
 
-<a href="https://www.linkedin.com/in/arturo-echanique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn arturo echanique" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/arturo-echanique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn arturo echanique" height="30" width="40" /></a> -->
 
 </p>
+
+
 <p style="margin-left:40px">
 
+[**LinkedIn**](https://www.linkedin.com/in/arturo-echanique)&nbsp;&nbsp;&nbsp;
 **arturoechanique@gmail.com**
 </p>
 </div>
@@ -18,8 +21,7 @@
 
 ## About me:
 
-<p align="center"> "I am currently studying in a Cabify bootcamp on back-end technologies for which I have been selected. 
-Recently graduated from Ironhack, a full-stack web development bootcamp where we have learned to work intensively and teamwork.
+<p align="center"> "Recently graduated from Ironhack, a MERN bootcamp where we have learned to work intensively and teamwork.
 In the last 3 years I have been training in disciplines such as artificial intelligence (machine learning, tensorflow, deep learning oriented mathematics), web development (html, Javascript, Angular, React), programming with Phyton."</p>
 <br>
 
