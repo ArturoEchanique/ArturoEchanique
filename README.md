@@ -17,7 +17,6 @@
 **arturoechanique@gmail.com**
 </p>
 </div>
-<br>
 
 ## About me:
 
@@ -29,8 +28,7 @@ In the last 3 years I have been training in disciplines such as artificial intel
 
 - [Vanmeup](https://vanmeup.netlify.app) &nbsp;&nbsp;&nbsp;[(GitHub)](https://github.com/ArturoEchanique/vans-project-client)
 
-  <span><p>-Desktop only, responsive version under develpment.
-  <br>
+  <span><p>-Three week development. Desktop only, responsive version under develpment.<br>
 -Camper van rental service, to generate money when not in use.
 <br>
 -Voted as best web development final project at Hackshow (Ironhack)
@@ -44,12 +42,15 @@ In the last 3 years I have been training in disciplines such as artificial intel
 
 - [Lamusse](https://lamusse.herokuapp.com) &nbsp;&nbsp;&nbsp;[(GitHub)](https://github.com/ArturoEchanique/museumApp)
 
-  <span><p>App focused on art, data obtained from the met api. One Week development.<br>
-Technologies used: HTML, CSS, JavaScript, ExpressJs, MongoDB, Tensorflow</p></span>
+  <span><p>-One week development<br>
+  -App focused on art, data obtained from the met api.<br>
+-Technologies used: HTML, CSS, JavaScript, ExpressJs, MongoDB, Tensorflow</p></span>
 
 - [New Simpsons Arcade](https://www.youtube.com/watch?v=O0E5fRSZYvA) &nbsp;&nbsp;&nbsp;[(GitHub)](https://github.com/ArturoEchanique/juegoLuciaYArturo) &nbsp;&nbsp;&nbsp;[Play here](https://lnkd.in/dj6zzHCa)
 
-  <span><p>-2D Simpsons game developed in one week as an Ironhack first module project.<br>
+  <span><p>
+  -One week development<br>
+  -2D Simpsons game developed as an Ironhack first module project.<br>
 -HTML, JavaScript, Canvas<br></p></span>
 
 - [Oasis Puzzles](https://www.oculus.com/experiences/quest/6953290791410082) &nbsp;&nbsp;&nbsp;[Video](https://www.youtube.com/watch?v=GjiTV9gKizQ)
