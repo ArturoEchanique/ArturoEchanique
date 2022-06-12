@@ -31,9 +31,10 @@ In the last 3 years I have been training in disciplines such as artificial intel
   <br>
 -Camper van rental service, to generate money when not in use.
 <br>
--Technologies used: React, HTML, JavaScript, CSS, ExpressJs, MongoDB, JavaScript.
+-Voted as best web development final project at Hackshow (Ironhack)
 <br>
--Voted as best web development final project at Hackshow (Ironhack)</p></span>
+-React, HTML, JavaScript, CSS, ExpressJs, MongoDB, JavaScript.
+</p></span>
   
       
 
