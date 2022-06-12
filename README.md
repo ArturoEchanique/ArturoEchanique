@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arturo Echanique</h1>
+<h1 align="center">👋 Hi, I'm Arturo Echanique</h1>
 <h3 align="center">A passionate back-end developer from Spain
 
 [**LinkedIn**](https://www.linkedin.com/in/arturo-echanique)&nbsp;&nbsp;&nbsp;
@@ -6,7 +6,7 @@
 
 
 
-<br>
+
 
 ## About me:
 
