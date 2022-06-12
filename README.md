@@ -1,22 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arturo Echanique</h1>
-<h3 align="center">A passionate back-end developer from Spain</h3>
-
-<h3 align="left">Connect with me: </h3>
-<p align="left">
-
-<div style="display:flex; align-items:center">
-
-<!-- <a href="https://www.linkedin.com/in/arturo-echanique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn arturo echanique" height="30" width="40" /></a> -->
-
-</p>
-
-
-<p style="margin-left:40px">
+<h3 align="center">A passionate back-end developer from Spain
 
 [**LinkedIn**](https://www.linkedin.com/in/arturo-echanique)&nbsp;&nbsp;&nbsp;
-**arturoechanique@gmail.com**
-</p>
-</div>
+**arturoechanique@gmail.com**</h3>
+
+
+
+<br>
 
 ## About me:
 
