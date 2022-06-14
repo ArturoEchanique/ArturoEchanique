@@ -23,7 +23,7 @@ In the last 3 years I have been training in disciplines such as artificial intel
   
       
 
-## Projects I've worked recently:
+## Projects I've recently worked on:
 
 - [Lamusse](https://lamusse.herokuapp.com) &nbsp;&nbsp;&nbsp;[(GitHub)](https://github.com/ArturoEchanique/museumApp)
 
