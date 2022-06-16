@@ -11,7 +11,7 @@
 ## About me:
 
 <p align="center"> "Recently graduated from Ironhack, a MERN bootcamp where we have learned to work intensively and teamwork.
-In the last 3 years I have been training in disciplines such as artificial intelligence (machine learning, tensorflow, deep learning oriented mathematics), web development (html, Javascript, Angular, React), programming with Phyton."</p>
+In the last 3 years I have been training in disciplines such as artificial intelligence (machine learning, tensorflow, deep learning oriented mathematics), web development (html, Javascript, Angular, React) and programming with Phyton."</p>
 <br>
 
 ## :boom: What I am currently working on:
@@ -19,7 +19,7 @@ In the last 3 years I have been training in disciplines such as artificial intel
 - [Vanmeup](https://vanmeup.netlify.app) &nbsp;&nbsp;&nbsp;[(GitHub)](https://github.com/ArturoEchanique/vans-project-client)
 
   <span>
-  -Three week development. Desktop only, responsive version under develpment.<br>-Camper van rental service, to generate money when not in use.<br>-Voted as best web development final project at Hackshow (Ironhack)<br>-React, HTML, JavaScript, CSS, ExpressJs, MongoDB, JavaScript.</span>
+  -Voted as best web development final project at Hackshow (Ironhack)<br>-Camper van rental service, to generate money when not in use.<br>-Three week development. Desktop only, responsive version under develpment.<br>-React, HTML, JavaScript, CSS, ExpressJs, MongoDB, JavaScript.</span>
   
       
 
